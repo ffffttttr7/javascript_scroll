@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+    text-align: center;
+    background-color: #d3f1ef;
+    opacity: 1;
+    background-image:  linear-gradient(#eeb3d6 1px, transparent 1px), linear-gradient(to right, #eeb3d6 1px, #d3f1ef 1px);
+    background-size: 20px 20px;
+  }
+  
+  h1 {
+    margin: 50vh 0;
+  }
+  
+  img {
+    max-width: 100%;
+    margin: 20vh 0;
+    opacity: 1;
+  }
